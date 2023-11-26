@@ -1,0 +1,68 @@
+<?xml version='1.0'  encoding='Cp1252' ?>
+<RESULTS>
+	<ROW>
+		<COLUMN NAME="CPF"><![CDATA[12]]></COLUMN>
+		<COLUMN NAME="NOME"><![CDATA[felipe12]]></COLUMN>
+		<COLUMN NAME="EMAIL"><![CDATA[felipe@gmail.com.br]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="CPF"><![CDATA[2345]]></COLUMN>
+		<COLUMN NAME="NOME"><![CDATA[felipeTesteInserir]]></COLUMN>
+		<COLUMN NAME="EMAIL"><![CDATA[felipe@inserir.com]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="CPF"><![CDATA[0]]></COLUMN>
+		<COLUMN NAME="NOME"><![CDATA[felipeteste]]></COLUMN>
+		<COLUMN NAME="EMAIL"><![CDATA[felipecongioalbino11@gmail.com]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="CPF"><![CDATA[123]]></COLUMN>
+		<COLUMN NAME="NOME"><![CDATA[felipeLegal]]></COLUMN>
+		<COLUMN NAME="EMAIL"><![CDATA[felipeLegal12@gmail.com]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="CPF"><![CDATA[1234]]></COLUMN>
+		<COLUMN NAME="NOME"><![CDATA[felipeLegal2]]></COLUMN>
+		<COLUMN NAME="EMAIL"><![CDATA[felipeMuitoLegal@gmail.com]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="CPF"><![CDATA[514641]]></COLUMN>
+		<COLUMN NAME="NOME"><![CDATA[teste]]></COLUMN>
+		<COLUMN NAME="EMAIL"><![CDATA[teste@gmailOracle.com.br]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="CPF"><![CDATA[514641848]]></COLUMN>
+		<COLUMN NAME="NOME"><![CDATA[felipe]]></COLUMN>
+		<COLUMN NAME="EMAIL"><![CDATA[congio]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="CPF"><![CDATA[5142123]]></COLUMN>
+		<COLUMN NAME="NOME"><![CDATA[]]></COLUMN>
+		<COLUMN NAME="EMAIL"><![CDATA[aaa]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="CPF"><![CDATA[514543]]></COLUMN>
+		<COLUMN NAME="NOME"><![CDATA[]]></COLUMN>
+		<COLUMN NAME="EMAIL"><![CDATA[fe]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="CPF"><![CDATA[5142124]]></COLUMN>
+		<COLUMN NAME="NOME"><![CDATA[felipe]]></COLUMN>
+		<COLUMN NAME="EMAIL"><![CDATA[felipecongioalbino@gmail.com]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="CPF"><![CDATA[1231]]></COLUMN>
+		<COLUMN NAME="NOME"><![CDATA[fe]]></COLUMN>
+		<COLUMN NAME="EMAIL"><![CDATA[fe]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="CPF"><![CDATA[12314]]></COLUMN>
+		<COLUMN NAME="NOME"><![CDATA[feteste]]></COLUMN>
+		<COLUMN NAME="EMAIL"><![CDATA[feteste@gmail.com]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="CPF"><![CDATA[51384382]]></COLUMN>
+		<COLUMN NAME="NOME"><![CDATA[feTeste2]]></COLUMN>
+		<COLUMN NAME="EMAIL"><![CDATA[felipe@gmail.com]]></COLUMN>
+	</ROW>
+</RESULTS>
